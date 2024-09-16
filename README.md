@@ -1,4 +1,4 @@
-# Hi there, I'm Zeynep N. Yakay 👋
+# Hi, I'm Zeynep N. Yakay 👋
 
 I'm a passionate Biomedical Engineering student at The University of Texas at Austin, excited to explore the intersection of technology, data, and healthcare. I have a growing interest in applying my skills to real-world biomedical challenges and contributing to innovative solutions.
 
@@ -7,8 +7,7 @@ I'm a passionate Biomedical Engineering student at The University of Texas at Au
 - 🔬 Research Assistant at UT Austin, with a focus on image processing and biomedical engineering research
 - 💻 Experience with Python, JavaScript, and R
 
-🛠 **Technical Skills**
-- **Languages:** Python, JavaScript, R
+🛠 **Languages:** Python, JavaScript, R
 
 🌟 **Project Experience**
 I actively document my work experience and research on my [Project Website](https://sites.google.com/view/zeynepnyakay/projects).
