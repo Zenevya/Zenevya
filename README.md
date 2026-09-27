@@ -1,9 +1,9 @@
-# Hi, I'm Zeynep N. Yakay 👋
+# Hi, I'm Zeynep 👋
 
 I'm a Biomedical Engineering student at The University of Texas at Austin, excited to explore the intersection of technology, and healthcare. I have a growing interest in applying my skills to real-world biomedical challenges and contributing to innovative solutions.
 
 **Quick Facts**
-- 🎓 Pursuing a B.S. in Biomedical Engineering at UT Austin (4th Year)
+- 🎓 Graduated with a B.S. in Biomedical Engineering at UT Austin
 - 🔬 Research Assistant at UT Austin, with a focus on image processing and biomedical engineering research
 - 💼 Former intern at Kyocera Medical Technologies, Inc
 - 💻 Experience with Python, JavaScript, and R
